@@ -2,6 +2,6 @@
 
 # 👋 Sup! We are NullYex | ![](https://komarev.com/ghpvc/?username=NullYex&style=flat&label=NullYex+Profile+views) (^///^)
 ### Check out our projects at:
-## [ ⚡NullYex.online 🙈](https://nullyex.online/)
+## [ ⚡NullYex.com 🙈](https://nullyex.com/)
 
 </div>
